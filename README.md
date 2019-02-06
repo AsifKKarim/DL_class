@@ -1,2 +1,4 @@
 # DL_class
-Study materialfor deep learning
+Study material for deep learning
+
+#This contains RNN CNN and other neural networks.
